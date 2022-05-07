@@ -1,6 +1,6 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://raw.githubusercontent.com/tarekzoka/ajpanel/main/installer.sh -O - | /bin/sh
+## Command=wget https://raw.githubusercontent.com/tarekzoka/dreamsatpanel/main/installer.sh -O - | /bin/sh
 ##
 ###########################################
 ###########################################
