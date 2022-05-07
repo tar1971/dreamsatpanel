@@ -12,7 +12,7 @@ wait
 #!/bin/sh
 #
 
-wget -O /tmp/ajpanel_v5.1.0_all.deb "https://github.com/tarekzoka/ajpanel/blob/main/enigma2-plugin-extensions-ajpanel_v5.1.0_all.deb?raw=true"
+wget -O /tmp/dreamsatpanel_1.3.deb "https://github.com/tar1971/dreamsatpanel/blob/main/enigma2-plugin-extensions-dreamsatpanel_1.3.deb?raw=truee"
 wait
 apt-get update ; dpkg -i /tmp/*.deb ; apt-get -y -f install
 wait
